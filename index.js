@@ -15,10 +15,10 @@
 
 // console.log(process.argv[4])
 
-let x = process.argv[2]
+// let x = process.argv[2]
 
-if (!(x % 2)) {
-  console.log('The number is even')
-} else {
-  console.log('The number is odd')
-}
+// if (!(x % 2)) {
+//   console.log('The number is even')
+// } else {
+//   console.log('The number is odd')
+// }
