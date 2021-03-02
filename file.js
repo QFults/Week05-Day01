@@ -24,3 +24,9 @@ const fs = require('fs')
 // fs.writeFile('pet.json', JSON.stringify(pet), err => {
 //   if (err) { console.log(err) }
 // })
+
+// fs.appendFile('some.txt', 'Another thing', err => {
+//   if (err) { console.log(err) }
+// })
+
+
